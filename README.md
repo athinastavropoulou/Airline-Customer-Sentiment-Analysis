@@ -30,4 +30,4 @@ This tool allows airline operators to automate the monitoring of brand reputatio
 
 ---
 **Author:** Athina Stavropoulou  
-**Contact:** [Your LinkedIn Profile Link]
+**Contact:** www.linkedin.com/in/athinastavropoulou
